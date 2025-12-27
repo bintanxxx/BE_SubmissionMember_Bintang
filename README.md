@@ -1,3 +1,13 @@
+# 🚀 Link Submission (PENTING)
+
+Berikut adalah link akses untuk penilaian proyek ini:
+
+- **Repository GitHub:** [Link GitHub Kamu]
+- **Live Deployment (Vercel):** [Link Vercel Kamu]
+- **API Documentation (Swagger):** [Link Vercel Kamu]/api-docs
+
+---
+
 # 🎟️ Backend Event Ticketing System (Submission)
 
 Project ini dibangun sebagai solusi Backend untuk platform tiket event online. Sistem ini dirancang untuk menangani integritas data transaksi (**The Gatekeeper Logic**) dan keamanan sistem (**Secure the Crowd**).
