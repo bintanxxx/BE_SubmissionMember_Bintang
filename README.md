@@ -2,9 +2,9 @@
 
 Berikut adalah link akses untuk penilaian proyek ini:
 
-- **Repository GitHub:** [Link GitHub Kamu]
-- **Live Deployment (Vercel):** [Link Vercel Kamu]
-- **API Documentation (Swagger):** [Link Vercel Kamu]/api-docs
+- **Repository GitHub:** https://github.com/bintanxxx/BE_SubmissionMember_Bintang
+- **Live Deployment (Vercel):** https://be-submission-member-bintang.vercel.app/
+- **API Documentation (Swagger):** https://be-submission-member-bintang.vercel.app//api-docs
 
 ---
 
