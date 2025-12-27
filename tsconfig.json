@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "rootDir": "./src" /* TAMBAHAN PENTING: Agar struktur dist rapi */,
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*" /* FOKUS: Hanya compile file dalam folder src */],
+  "exclude": ["node_modules", "dist"]
+}
